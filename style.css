@@ -1,0 +1,41 @@
+.name{
+    margin-top: 300px;
+  
+
+}
+
+body{
+
+    background-color: antiquewhite;
+}
+
+div{
+   
+    background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 200px;
+  margin-left: 700px;
+}
+.user{
+    height: 30px;
+    width: 300px;
+    
+
+}
+
+.user1{
+   height: 50px;
+   width: 300px;
+    background-color: blue;
+    
+    color: white;
+}
+
+.remember  {
+    
+
+    font-weight: 700px;
+
+}
